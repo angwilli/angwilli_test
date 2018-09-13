@@ -7,4 +7,5 @@ ITSE17 Angwillli Armstrong.
 3. Commit -m "3rd commit d.txt"
 
 A) 1st Changed file under the etc branch and add then commit.
-B) 2nd Changed file under the etc branch and then commit.
+B) 2nd Changed file under the etc branch and then commit.$
+) Changes under ZH 
