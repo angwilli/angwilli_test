@@ -10,5 +10,6 @@ A) 1st Changed file under the etc branch and add then commit.
 B) 2nd Changed file under the etc branch and then commit.
 
 i) New changes under Branch Master
+HEAD
 ii) New changes under Branch Master
-
+etc
