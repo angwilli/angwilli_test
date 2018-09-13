@@ -1,3 +1,7 @@
 ITSE17 Angwillli Armstrong.
-Come one come all.
-Thanks o' Lord for everything.
+
+1. Commit -m "1st commit d.txt"
+
+2. Commit -m "2nd commit d.txt"
+
+3. Commit -m "3rd commit d.txt"
